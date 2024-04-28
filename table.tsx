@@ -1,3 +1,5 @@
+import {MRT_Localization_RU} from 'mantine-react-table/locales/ru/index.cjs'
+<...>
 const table = useMantineReactTable({
         columns,
         data,
